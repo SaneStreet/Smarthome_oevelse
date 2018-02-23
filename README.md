@@ -1,6 +1,6 @@
 # Øvelse til S.O.L.I.D.
 
-## IOT-Smarthome Styresystem
+### IOT-Smarthome Styresystem
 
 "Klienten" ønsker at få installeret et IOT-smarthome styresystem, til at få opgraderet sit hjem på **5 punkter**: <br />
 **1.**  <br />

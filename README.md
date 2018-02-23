@@ -15,10 +15,22 @@
 **3.** Hvis "Klientens" smartphone er placeret 5 meter eller mere fra systemets/netværkets placering, vil døren låse sig selv, og alarmen vil blive slået til.  <br />
 
 **Regulering af Gardiner:** <br />
-**1.** "Klienten" kan klappe 2 gange i træk, for at tænde og slukke lyset. <br />
-**2.** Gardinregulering er tidsbestemt: Når klokken er 22:00, går gardinerne ned. Når klokken er 08:00, går gardinerne op. <br />
-**3.** Tidsbestemmelsen af Gardinerne kan ændres manuelt af "Klienten". <br />
+**1.** Gardinregulering er tidsbestemt: Når klokken er 22:00, går gardinerne ned. Når klokken er 08:00, går gardinerne op. <br />
+**2.** Tidsbestemmelsen af Gardinerne kan ændres manuelt af "Klienten". <br />
+
+**Regulering af Lys:** <br />
+**1.** Når du er hjemme skal lyset tændes. <br />
+**2.** Når du forlader hjemmet skal lyset slukkes. <br />
+**3.** Når du står op om morgenen, skal lyset tænde roligt op. <br />
+**4.** Hvis du skal se film skal lyset dæmpes. <br />
+
+**Regulering af Radiator:** <br />
+**1.** Når du er hjemme skal varmen reguleres. <br />
+**2.** Når du forlader hjemmet skal varmen reguleres. <br />
+**3.** Radiatoren er årstidsbestemt: Er det vinter er varmen reguleret derefter, er det sommer er varmen reguleret derefter, etc. <br />
 
 **Java-classes:**
+SystemMain.java --> Launch the system <br />
+TestSystemMain.java --> Test the system <br />
 Sikkerhed.java --> Dør.java og Alarm.java <br />
 Apparater.java --> Lys.java, Radiator.java og Gardin.java <br />

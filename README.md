@@ -3,8 +3,10 @@
 ### IOT-Smarthome Styresystem
 
 "Klienten" ønsker at få installeret et IOT-smarthome styresystem, til at få opgraderet sit hjem på **5 punkter**: <br />
-**1.**  <br />
-**2.**  <br />
-**3.**  <br />
-**4.**  <br />
-**5.**  <br />
+**1.** Lysregulering -  <br />
+**2.** Varmeregulering <br />
+**3.** Låse/åbne døre <br />
+**4.** Slå alarm til/fra <br />
+**5.** Gardinregulering <br />
+
+

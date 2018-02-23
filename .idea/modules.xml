@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Smarthome_oevelse.iml" filepath="$PROJECT_DIR$/Smarthome_oevelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smarthome_oevelse/SystemMain.iml" filepath="$PROJECT_DIR$/Smarthome_oevelse/SystemMain.iml" />
     </modules>
   </component>
 </project>

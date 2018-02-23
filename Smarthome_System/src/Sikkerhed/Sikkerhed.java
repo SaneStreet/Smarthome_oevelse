@@ -1,5 +1,5 @@
 package Sikkerhed;
 
-//Denne klasse er til Sikkerhed: Doerog Alarm.
+//Denne klasse er til Sikkerhed: Doer og Alarm.
 public class Sikkerhed {
 }

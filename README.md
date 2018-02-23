@@ -29,7 +29,7 @@
 **2.** Når du forlader hjemmet skal varmen reguleres. <br />
 **3.** Radiatoren er årstidsbestemt: Er det vinter er varmen reguleret derefter, er det sommer er varmen reguleret derefter, etc. <br />
 
-**Java-classes:**
+**Java-classes:** <br />
 SystemMain.java --> Launch the system <br />
 TestSystemMain.java --> Test the system <br />
 Sikkerhed.java --> Dør.java og Alarm.java <br />

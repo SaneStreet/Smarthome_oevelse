@@ -16,4 +16,11 @@ public class Gardin extends Apparater {
         gardiner[2] = gardinStue;
         gardiner[3] = gardinKoekken;
     }
+
+    public void traekOp(){
+
+    }
+    public void traekNed(){
+
+    }
 }

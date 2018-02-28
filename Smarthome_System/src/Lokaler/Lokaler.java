@@ -16,5 +16,8 @@ public class Lokaler {
         lokaler[2] = lokaleKoekken;
         lokaler[3] = lokaleKontor;
         lokaler[4] = lokaleSpisestue;
+
+        System.out.println(lokaler);
     }
+
 }
